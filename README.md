@@ -28,6 +28,9 @@ This project helps users generate personalized workout plans and diet suggestion
 4. Generate diet suggestions
 5. Return structured results
 
+## Workflow Diagram
+![Workflow](workflow.png)
+
 ## Product Value
 This project reduces the barrier for beginners to get personalized fitness and diet guidance through structured input and scenario-based output.
 
